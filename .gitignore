@@ -1,0 +1,10 @@
+# Main
+__pycache__/
+migrations/
+.venv/
+dist/
+deeam.egg-info/
+*.log
+
+# Project
+.idea/
